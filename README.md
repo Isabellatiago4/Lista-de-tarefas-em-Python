@@ -14,6 +14,4 @@ Criei um programa básico no Pycharm utilizando a linguagem python para demonstr
 - If e else (condicionais)
 - While e for (loops)
 
-  ## Como testar
-  
   
